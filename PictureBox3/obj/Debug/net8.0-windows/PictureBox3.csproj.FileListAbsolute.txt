@@ -1,0 +1,16 @@
+E:\programas\Programacion II\C# 3ro\PictureBox3\PictureBox3\bin\Debug\net8.0-windows\PictureBox3.exe
+E:\programas\Programacion II\C# 3ro\PictureBox3\PictureBox3\bin\Debug\net8.0-windows\PictureBox3.deps.json
+E:\programas\Programacion II\C# 3ro\PictureBox3\PictureBox3\bin\Debug\net8.0-windows\PictureBox3.runtimeconfig.json
+E:\programas\Programacion II\C# 3ro\PictureBox3\PictureBox3\bin\Debug\net8.0-windows\PictureBox3.dll
+E:\programas\Programacion II\C# 3ro\PictureBox3\PictureBox3\bin\Debug\net8.0-windows\PictureBox3.pdb
+E:\programas\Programacion II\C# 3ro\PictureBox3\PictureBox3\obj\Debug\net8.0-windows\PictureBox3.Form1.resources
+E:\programas\Programacion II\C# 3ro\PictureBox3\PictureBox3\obj\Debug\net8.0-windows\PictureBox3.csproj.GenerateResource.cache
+E:\programas\Programacion II\C# 3ro\PictureBox3\PictureBox3\obj\Debug\net8.0-windows\PictureBox3.GeneratedMSBuildEditorConfig.editorconfig
+E:\programas\Programacion II\C# 3ro\PictureBox3\PictureBox3\obj\Debug\net8.0-windows\PictureBox3.AssemblyInfoInputs.cache
+E:\programas\Programacion II\C# 3ro\PictureBox3\PictureBox3\obj\Debug\net8.0-windows\PictureBox3.AssemblyInfo.cs
+E:\programas\Programacion II\C# 3ro\PictureBox3\PictureBox3\obj\Debug\net8.0-windows\PictureBox3.csproj.CoreCompileInputs.cache
+E:\programas\Programacion II\C# 3ro\PictureBox3\PictureBox3\obj\Debug\net8.0-windows\PictureBox3.dll
+E:\programas\Programacion II\C# 3ro\PictureBox3\PictureBox3\obj\Debug\net8.0-windows\refint\PictureBox3.dll
+E:\programas\Programacion II\C# 3ro\PictureBox3\PictureBox3\obj\Debug\net8.0-windows\PictureBox3.pdb
+E:\programas\Programacion II\C# 3ro\PictureBox3\PictureBox3\obj\Debug\net8.0-windows\PictureBox3.genruntimeconfig.cache
+E:\programas\Programacion II\C# 3ro\PictureBox3\PictureBox3\obj\Debug\net8.0-windows\ref\PictureBox3.dll
